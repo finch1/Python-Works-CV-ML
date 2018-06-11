@@ -1,0 +1,17 @@
+# Ignore datasets and other irrelevants
+testzip.zip
+start.py
+archive.zip
+textfile.txt
+textfile.txt.back
+BMLSWRC.py
+dataSci1.py
+dataSci2.py
+SentdexML1.py
+data.txt
+.vscode/*
+Caption Sys/Flicker8k_Dataset/*
+Caption Sys/__MACOSX/*
+Python_OpenCV/opencv-master/*
+Python_OpenCV/opencv-master.zip
+test1/*
