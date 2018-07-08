@@ -1,3 +1,4 @@
+# https://www.lynda.com/Google-TensorFlow-tutorials/Building-Deep-Learning-Applications-Keras-2-0/601801-2.html
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
